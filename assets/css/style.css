@@ -138,3 +138,14 @@ footer{
 hr{
     background-color: white;
 }
+
+footer div p {
+    /* border: solid red; */
+    width: 1000px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    align-self: flex-end;
+
+}
